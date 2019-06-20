@@ -1,0 +1,1 @@
+https://www.howtographql.com/graphql-java/5-authentication/
